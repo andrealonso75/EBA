@@ -1,0 +1,1 @@
+Esta pasta é dedicada às aulas. Contém exemplos que serão realizados em Python (Jupyter Notebook) e todas as práticas de estudo serão armazenadas aqui. Não serão comtemplados os projetos nessa pasta.
